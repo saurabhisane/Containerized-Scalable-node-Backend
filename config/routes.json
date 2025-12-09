@@ -1,0 +1,15 @@
+{
+  "/users": [
+    "http://localhost:3001",
+    "http://localhost:3002"
+  ],
+  "/orders": [
+    "http://localhost:3003"
+  ],
+  "/products": [
+    "http://localhost:3004"
+  ],
+  "/stats": [
+    "http://localhost:3005"
+  ]
+}

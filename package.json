@@ -1,0 +1,25 @@
+{
+  "name": "api-gateway",
+  "version": "1.0.0",
+  "description": "Advanced API Gateway with Load Balancing, Authentication, Rate Limiting & Caching",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "nodemon src/index.js",
+    "test:services": "node tests/startBackendServices.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "http-proxy": "^1.18.1",
+    "jsonwebtoken": "^9.0.0",
+    "morgan": "^1.10.0",
+    "redis": "^4.6.7",
+    "nodemon": "^3.1.11"
+  }
+}
