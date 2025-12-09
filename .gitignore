@@ -1,0 +1,11 @@
+./keys/files.txt
+./keys/credentials.json
+./logs/
+./temp/
+./*.log
+./*.tmp
+./node_modules/
+./dist/
+./.env
+./.DS_Store
+./coverage/
