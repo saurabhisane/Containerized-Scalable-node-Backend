@@ -2,6 +2,10 @@
 
 A production-ready API Gateway built with Node.js/Express that demonstrates enterprise-level patterns for routing, load balancing, authentication, rate limiting, caching, and monitoring.
 
+<p align="center">
+  <img src="Backend/images/pawprint.png" alt="Adopto Logo" width="150" height="150">
+</p>
+
 ## 📋 Features
 
 ### ✅ Core Gateway Features
@@ -598,3 +602,4 @@ For issues, questions, or feature requests, create an issue in the repository.
 ---
 
 **Built with ❤️ using Node.js, Express, and modern DevOps practices**
+
